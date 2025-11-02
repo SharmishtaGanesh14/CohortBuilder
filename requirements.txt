@@ -1,0 +1,17 @@
+# Dynamic Cohort Builder Dependencies
+
+# Core web framework
+streamlit>=1.28.0
+
+# AI/ML integration
+openai>=1.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.15.0
+
+# Testing (optional)
+pytest>=7.4.0
