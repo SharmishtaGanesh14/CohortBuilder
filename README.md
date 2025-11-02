@@ -56,7 +56,7 @@ The app will open at `http://localhost:8501`
 ## Usage Guide
 
 ### 1. **Upload Your Data**
-- Click "📁 upload custom csv" in the sidebar
+- Click "upload custom csv" in the sidebar
 - The app automatically detects patient ID columns
 - Supports: `patient_id`, `subject_id`, `case_id`, `submitter_id`, `participant_id`, `id`, etc.
 
