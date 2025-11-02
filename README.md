@@ -22,7 +22,7 @@ A powerful, AI-powered medical cohort analysis tool that dynamically adapts to a
 - Intelligent column prioritization (age, gender, status)
 - Beautiful interactive Plotly charts
 
-### **Advanced Filtering**
+###**Advanced Filtering**
 - Inclusion/exclusion filters
 - Multiple operators (=, !=, >, <, >=, <=, isin, notin, isna, notna)
 - Combined filter support
